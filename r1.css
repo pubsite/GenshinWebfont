@@ -6,7 +6,7 @@
     font-weight: normal;
   }
 @font-face{
-    font-family: Gs;
+    font-family: GsB; /* Gs -> GsB to accelerate */
     font-display: swap;
     src: url(./HYWH85W.ttf) format("truetype");
     font-style: normal;
