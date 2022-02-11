@@ -1,8 +1,14 @@
 @font-face{
-    font-family: gsr;
-    src: url(/HYWH65W.ttf);
+    font-family: GsRegular;
+    src: url(./HYWH65W.ttf);
   }
+.gsr {
+    font-family: GsRegular, sans-serif;
+}
 @font-face{
-    font-family: gsb;
-    src: url(/HYWH85W.ttf);
+    font-family: GsBlack;
+    src: url(./HYWH85W.ttf);
   }
+.gsb {
+    font-family: GsBlack, sans-serif;
+}
