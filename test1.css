@@ -1,17 +1,17 @@
 @font-face{
     font-family: Gs;
-    font-diaplay: swap;
+    font-display: swap;
     src: url(./HYWH65W.ttf) format("truetype");
     font-style: normal;
     font-weight: normal;
   }
 @font-face{
     font-family: Gs;
-    font-diaplay: swap;
+    font-display: swap;
     src: url(./HYWH85W.ttf) format("truetype");
     font-style: normal;
     font-weight: bold;
   }
 .gs {
-    font-family: Gs, sans-serif;
+    font-family: Ubuntu, Gs, sans-serif;
 }
