@@ -1,14 +1,17 @@
 @font-face{
-    font-family: GsRegular;
-    src: url(./HYWH65W.ttf);
+    font-family: Gs;
+    font-diaplay: swap;
+    src: url(./HYWH65W.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
   }
-.gsr {
-    font-family: GsRegular, sans-serif;
-}
 @font-face{
-    font-family: GsBlack;
-    src: url(./HYWH85W.ttf);
+    font-family: Gs;
+    font-diaplay: swap;
+    src: url(./HYWH85W.ttf) format("truetype");
+    font-style: normal;
+    font-weight: bold;
   }
-.gsb {
-    font-family: GsBlack, sans-serif;
+.gs {
+    font-family: Gs, sans-serif;
 }
