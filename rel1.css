@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Genshin";
+    font-display: swap;
+    font-style: normal;
+    font-weight: 800;
+    src: url(./Genshin.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: "Genshin85W";
+    font-display: swap;
+    font-style: normal;
+    font-weight: 800;
+    src: url(./Genshin85W.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Genshin65W";
+    font-display: swap;
+    font-style: 600;
+    src: url(./Genshin65W.ttf) format("truetype");
+}
