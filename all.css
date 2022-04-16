@@ -3,7 +3,7 @@
     font-display: swap;
     font-style: normal;
     font-weight: 800;
-    src: url(http://static.wikia.nocookie.net/gensin-impact/images/6/65/Genshin_Impact_Font.woff/revision/latest?cb=20201213055157) format("truetype")
+    src: url(http://static.wikia.nocookie.net/gensin-impact/images/6/65/Genshin_Impact_Font.woff/revision/latest?cb=20201213055157) format("truetype");
 }
 
 @font-face {
@@ -19,7 +19,7 @@
     font-display: swap;
     font-style: normal;
     font-weight: 700;
-    src: url(http://static.wikia.nocookie.net/gensin-impact/images/f/f3/Genshin_Impact_Font_75W.woff/revision/latest?cb=20210121092313) format("truetype")
+    src: url(http://static.wikia.nocookie.net/gensin-impact/images/f/f3/Genshin_Impact_Font_75W.woff/revision/latest?cb=20210121092313) format("truetype");
 }
 
 @font-face {
@@ -34,5 +34,5 @@
     font-display: swap;
     font-style: normal;
     font-weight: 500;
-    src: url(http://static.wikia.nocookie.net/gensin-impact/images/a/a9/Genshin_Impact_Font_55W.woff/revision/latest?cb=20210121092403) format("truetype")
+    src: url(http://static.wikia.nocookie.net/gensin-impact/images/a/a9/Genshin_Impact_Font_55W.woff/revision/latest?cb=20210121092403) format("truetype");
 }
